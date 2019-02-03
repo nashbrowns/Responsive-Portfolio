@@ -209,9 +209,26 @@ form{
     padding: 20px;
   }
 
-  @media only screen and (max-width: 640px) {
+  @media only screen and (max-width: 640px){
     .auth-image {width: 100%;}
     #logo {width: 100%;}
     nav {padding-right: 30%;}
     #masthead {position: static;}
-    #main-container {padding-top: 30px;}
+    #main-container {padding-top: 30px};
+    }
+  
+  @media only screen and (max-width: 768px) {
+    .auth-image {width: 100%;}
+    #logo {width: 100%;}
+    nav {padding-right: 30%;}
+    #masthead {position: static;}
+    #main-container {padding-top: 30px};
+    }
+  
+  @media only screen and (max-width: 768px) {
+    .auth-image {width: 100%;}
+    #logo {width: 100%;}
+    nav {padding-right: 30%;}
+    #masthead {position: static;}
+    #main-container {padding-top: 30px};
+    }
