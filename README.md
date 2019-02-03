@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Making our portfolio site mobile/tablet responsive
+# Basic-Portflio
+Bootcamp HW, Basic Portfolio Assignment
